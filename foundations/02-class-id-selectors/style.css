@@ -12,3 +12,9 @@
 .three {
     font-size: 24px;
 }
+
+#name {
+    background-color: rgb(72, 234, 88);
+    font-size: 24px;
+    font-weight: bold;
+}
