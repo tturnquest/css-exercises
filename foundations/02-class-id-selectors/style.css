@@ -1,10 +1,10 @@
-/* styles.css */
+/* style.css */
 
-p {
+.paragraph {
     background-color: rgb(244, 167, 175);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#Number {
+#number {
     color: rgb(0, 26, 255);
     font-size: 36px;
 }
