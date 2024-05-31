@@ -2,4 +2,10 @@
 
 .p {
     background-color: rgb(232, 127, 130);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: ;
+}
+#Number {
+    color: rgb(rgb(0, 26, 255));
+    font-size: 36px;
 }
