@@ -13,6 +13,7 @@ body {
 
 .title {
   background: #e3f4ff;
+  border-bottom: 10px solid white
 }
 
 .content {
@@ -23,6 +24,7 @@ body {
 .button-container {
   background: #e3f4ff;
   text-align: center;
+  border-top: 10px solid white
 }
 
 button {
