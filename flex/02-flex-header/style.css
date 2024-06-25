@@ -11,6 +11,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: auto;
 }
 .right-links ul {
   display: flex;
