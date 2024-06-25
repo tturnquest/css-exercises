@@ -15,6 +15,7 @@ body {
   padding: 8px;
   gap: 8px;
   display: flex;
+  align-items: center ;
 }
 .profile-image {
   background: rebeccapurple;
@@ -49,4 +50,11 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 16px;
+}
+
+.right-side {
+  display: flex;
+  justify-content: flex-end;
+  flex: 1;
+ 
 }
